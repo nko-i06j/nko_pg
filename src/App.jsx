@@ -7,6 +7,7 @@ function App() {
     <div className="section section1">
       <div className='title'>
         <h1>je suis la</h1>
+        <h1>et toujours la</h1>
       </div>
     </div>
     <div className="section section2">Section 2</div>
